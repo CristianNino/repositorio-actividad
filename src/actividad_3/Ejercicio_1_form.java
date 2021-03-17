@@ -53,7 +53,7 @@ public class Ejercicio_1_form extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-    JOptionPane.showMessageDialog(this, "Hola Mundo");
+    JOptionPane.showMessageDialog(this, "Hola mundo como se encuentra el dia de hoy");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
